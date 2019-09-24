@@ -29,3 +29,24 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+
+
+
+## Basic Instructions 
+
+```
+git status 
+
+git add . 
+
+git commit -m"some change"
+
+git push origin master
+```
+
+
+
+
+
